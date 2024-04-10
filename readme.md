@@ -6,23 +6,14 @@ EverQuest Race Inventory
 **Current Version:** 1.1  
 **Last Updated:** 05/25/2015
 
-Files available for download:
+### Download the clean install generated results:
 
-*   [References - RoF2](EQRI_References_RoF2.zip)
-*   [References - SoF](EQRI_References_SoF.zip)
-*   [References - Titanium](EQRI_References_Titanium.zip)
-*   [Program](EQRI.zip)
-*   [Source Code](EQRI_Source.zip) (Free Visual Studio 2013 Community Edition)
-*   [Old Source Code](EQRI_Source_VC2008.zip) (Titanium+SoF, Visual Studio Standard 2008)
-
-Or you can view the clean install results directly:
-
-*   [Race Data - RoF2](RoF2_EQRaces.htm)
-*   [Zone Data - RoF2](RoF2_EQZones.htm)
-*   [Race Data - SoF](SoF_EQRaces.htm)
-*   [Zone Data - SoF](SoF_EQZones.htm)
-*   [Race Data - Titanium](Titanium_EQRaces.htm)
-*   [Zone Data - Titanium](Titanium_EQZones.htm)
+*   [Race Data - RoF2](https://github.com/Shendare/EQRaceInventory/releases/latest/download/RoF2_EQRaces.htm)
+*   [Zone Data - RoF2](https://github.com/Shendare/EQRaceInventory/releases/latest/download/RoF2_EQZones.htm)
+*   [Race Data - SoF](https://github.com/Shendare/EQRaceInventory/releases/latest/download/SoF_EQRaces.htm)
+*   [Zone Data - SoF](https://github.com/Shendare/EQRaceInventory/releases/latest/download/SoF_EQZones.htm)
+*   [Race Data - Titanium](https://github.com/Shendare/EQRaceInventory/releases/latest/download/Titanium_EQRaces.htm)
+*   [Zone Data - Titanium](https://github.com/Shendare/EQRaceInventory/releases/latest/download/Titanium_EQZones.htm)
 
 ### How to use the program
 
